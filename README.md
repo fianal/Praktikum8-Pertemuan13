@@ -1039,23 +1039,29 @@ db.password=
 
 <h2>Table Form Mahasiswa</h2>
 
-![gambar]()
-
-![gambar]()
+![gambar](https://github.com/fianal/Praktikum8-Pertemuan13/blob/main/project%201/image/Formmahasiswa.png)
 
 <h2>Table Form Nilai</h2>
 
-![gambar]()
+![gambar](https://github.com/fianal/Praktikum8-Pertemuan13/blob/main/project%201/image/Formnilai.png)
 
-![gambar]()
+<h3>Create Nilai</h3>
 
-![gambar]()
+![gambar](https://github.com/fianal/Praktikum8-Pertemuan13/blob/main/project%201/image/Tambahnilai.png)
 
-![gambar]()
+![gambar](https://github.com/fianal/Praktikum8-Pertemuan13/blob/main/project%201/image/Tambahnilai2.png)
 
-![gambar]()
+<h3>Update Nilai</h3>
 
-![gambar]()
+![gambar](https://github.com/fianal/Praktikum8-Pertemuan13/blob/main/project%201/image/Updatenilai.png)
+
+![gambar](https://github.com/fianal/Praktikum8-Pertemuan13/blob/main/project%201/image/Updatenilai2.png)
+
+<h3>Delete Nilai</h3>
+
+![gambar](https://github.com/fianal/Praktikum8-Pertemuan13/blob/main/project%201/image/Deletenilai.png)
+
+![gambar](https://github.com/fianal/Praktikum8-Pertemuan13/blob/main/project%201/image/Deletenilai2.png)
 
 Sekian Terimakasih
 
